@@ -1,0 +1,22 @@
+{
+  "setup-ts": {
+    "color": "blue",
+    "url": "zealleaf/setup-ts"
+  },
+  "setup-ts-lite": {
+    "color": "blue",
+    "url": "zealleaf/setup-ts-lite"
+  },
+  "vite-react": {
+    "color": "green",
+    "url": "zealleaf/template-vite-react"
+  },
+  "package-ui": {
+    "color": "yellow",
+    "url": "zealleaf/template-package-ui"
+  },
+  "webpack5-react-ts": {
+    "color": "magenta",
+    "url": "zwinnie1219/webpack5-test.git"
+  }
+}
